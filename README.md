@@ -115,7 +115,7 @@ Then DC.js adds an extra layer of interactivity that empowers users to explore t
 
 1. Majority of Basic Charts | [Nasdaq 100 Index 1985 - 2012](https://dc-js.github.io/dc.js/)
 2. USA Choropleth Map  | [Startup Founder Demographics](http://dataviz.pitchbook.com/founders/)
-3. My Demo | [ACM@Manoa Members Statistics]()
+3. My Demo | [ACM@Manoa Members Statistics](https://seanytak.github.io/dcjs-presentation/)
 
 
 
