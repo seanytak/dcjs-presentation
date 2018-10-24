@@ -1,0 +1,57 @@
+	Class Standing	Major	SIGs Interest	Programming Languages	Career Fields
+0	Junior	Computer Science (General Track), Math	ACI, Game Dev, GreyHats, Manoa Data Science	Bash, C, C++, CSS, HTML, Java, JavaScript, Python, R, SQL	Back-End Developer, Data Engineer, Data Scientist, Software Engineer
+1	Junior	Computer Science (General Track), Math	ACI, Manoa Data Science	Java	Research
+2	Sophomore	Computer Science (General Track)	ACI, Game Dev, GreyHats	C, C++, Java, JavaScript	Back-End Developer, Database Administrator, Front-End Developer, Game Developer, Software Engineer, Cyber security
+3	Senior	Computer Science (General Track)	ACI	CSS, HTML, JavaScript, PHP, Python, TypeScript	Back-End Developer, Front-End Developer, Full Stack Developer, Mobile App Developer, Software Engineer
+4	Grad Student	Computer Science (General Track)	Game Dev, Manoa Data Science	C++, C#, CSS, HTML, Java, JavaScript, Python	Data Engineer, Data Scientist, Front-End Developer, Game Developer, Mobile App Developer, Software Engineer, UX Designer, VR / AR Engineer
+5	Sophomore	Computer Science (General Track)	ACI, Game Dev, GreyHats	C, Java	Game Developer, Mobile App Developer, Robotics Engineer, Software Engineer, VR / AR Engineer
+6	Senior	Computer Engineer	ACI	Bash, C, C++, Python, Swift	Back-End Developer, Data Engineer, DevOps Engineer, Front-End Developer, Full Stack Developer, Mobile App Developer, Network Engineer, Professor, Robotics Engineer, Software Engineer
+7	Freshman	Computer Science (General Track)	ACI, Game Dev, GreyHats	Java, Python	Game Developer, Software Engineer
+8	Senior	Computer Science (General Track)	GreyHats, Manoa Data Science	C, CSS, HTML, Java	Data Engineer, Data Scientist, Front-End Developer, Full Stack Developer, IoT Architect, Software Engineer, UX Designer
+9	Sophomore	Computer Science (General Track)	ACI, Game Dev, GreyHats, Manoa Data Science	Java	Back-End Developer, DevOps Engineer, Front-End Developer, Game Developer, Information Security Analyst, Mobile App Developer, Robotics Engineer, Software Engineer
+10	Sophomore	Computer Science (General Track)	GreyHats	Java, JavaScript	Back-End Developer, Information Security Analyst, Mobile App Developer, Software Engineer
+11	Sophomore	Computer Science (General Track)	ACI, Manoa Data Science	HTML	Database Administrator, Information Security Analyst, Network Engineer, Professor, Software Engineer
+12	Junior	Computer Science (General Track)	ACI, Entrepreneurship, Game Dev, GreyHats, Manoa Data Science	CSS, HTML, Java, JavaScript	Back-End Developer, Database Administrator, Front-End Developer, Full Stack Developer, Game Developer, Information Security Analyst, Mobile App Developer, Robotics Engineer, Software Engineer, UX Designer, VR / AR Engineer
+13	Sophomore	Computer Science (General Track)	ACI, Game Dev, GreyHats, Manoa Data Science	Java	Game Developer, Mobile App Developer, Professor, Researcher, VR / AR Engineer
+14	Senior	Computer Science (General Track), Computer Science (Security Track), Computer Science (Data Science Track), Computer Science (IT Track), Computer Engineer, Electrical Engineer, Mechanical Engineer, Math, Management Information Systems, Talofa	ACI, Entrepreneurship, Game Dev, GreyHats, Manoa Data Science	C, Matlab	IoT Architect
+15	Freshman	Computer Science (General Track)	ACI, Game Dev, GreyHats, Manoa Data Science	CSS, HTML, JavaScript, PHP, SQL	Data Engineer, Data Scientist, DevOps Engineer, Full Stack Developer, Researcher, Robotics Engineer, Software Engineer
+16	Freshman	Computer Science (General Track)	Game Dev, GreyHats	Java	Game Developer, IoT Architect, Mobile App Developer, Security Engineer, Software Engineer
+17	Senior	Computer Science (General Track)	ACI, GreyHats, Manoa Data Science	C, C++, Python	Data Engineer, Data Scientist, DevOps Engineer, Network Engineer, Professor, Security Engineer, Software Engineer, VR / AR Engineer
+18	Sophomore	Computer Science (Security Track)	ACI, GreyHats	Java, JavaScript, Python	Information Security Analyst
+19	Sophomore	Computer Science (General Track)	ACI, Game Dev, Manoa Data Science	C, Java, JavaScript	Database Administrator, Game Developer
+20	Sophomore	Computer Science (General Track)	ACI, GreyHats	C, C++, CSS, HTML, Java, JavaScript, Python	Data Scientist, Full Stack Developer, Information Security Analyst, Network Engineer, Researcher, Security Engineer, Software Engineer
+21	Junior	Computer Science (Security Track)	GreyHats	Java, JavaScript	Information Security Analyst, Digital Forensics Investigator
+22	Junior	Computer Science (General Track)	GreyHats, Manoa Data Science		Back-End Developer, Data Engineer, Data Scientist, Game Developer, Mobile App Developer, Network Engineer
+23	Freshman	Computer Science (General Track)	Game Dev, GreyHats	Java	Back-End Developer, Game Developer, Mobile App Developer, Software Engineer
+24	Sophomore	Computer Science (General Track), Japanese	Entrepreneurship, GreyHats, Manoa Data Science	CSS, HTML, Java	Back-End Developer, Data Engineer, Data Scientist, Database Administrator, DevOps Engineer, Front-End Developer, Full Stack Developer, Game Developer, Mobile App Developer, Software Engineer, UX Designer
+25	Senior	Computer Science (Security Track)	GreyHats, Manoa Data Science	C, C++, CSS, HTML, Java, JavaScript, Python, SQL	Data Scientist, Information Security Analyst, Robotics Engineer, Security Engineer
+26	Freshman	Computer Science (General Track)	ACI, GreyHats	Java	Mobile App Developer, Software Engineer
+27	Sophomore	Molecular Biosciences and Biotechnology	Manoa Data Science		Data Scientist, Researcher, Bioinformaticist
+28	Other	Computer Science (Security Track)	ACI, GreyHats, Manoa Data Science	Java	Data Scientist, Information Security Analyst, Mobile App Developer, Researcher, Security Engineer, Software Engineer
+29	Junior	Computer Science (General Track)	ACI, Manoa Data Science	Java, JavaScript	Back-End Developer, Data Scientist, Front-End Developer, Full Stack Developer, Mobile App Developer, Software Engineer
+30	Senior	Computer Science (General Track)	ACI, Manoa Data Science	C, Java	Data Engineer, Software Engineer
+31	Junior	Computer Engineer	ACI, Entrepreneurship, Game Dev, Manoa Data Science	Bash, C, C++, Java, JavaScript, Python	Back-End Developer, Game Developer, IoT Architect, Mobile App Developer, Software Engineer, VR / AR Engineer
+32	Junior	Computer Science (General Track)	ACI, Game Dev, GreyHats, Manoa Data Science	Java	Back-End Developer, Software Engineer
+33	Sophomore	Computer Science (General Track)	ACI, GreyHats, Manoa Data Science	Java	Data Scientist, Game Developer, Researcher, Software Engineer
+34	Freshman	Computer Science (General Track)	ACI, Entrepreneurship, GreyHats, Manoa Data Science	Java	Back-End Developer, Data Scientist, Database Administrator, Information Security Analyst, Researcher, Software Engineer, VR / AR Engineer
+35	Freshman	Computer Science (General Track)	ACI, GreyHats, Manoa Data Science	Java	Full Stack Developer, Game Developer, Mobile App Developer, Software Engineer, UX Designer
+36	Junior	Computer Science (Security Track)	ACI, GreyHats, Manoa Data Science	Bash, C, C++, CSS, Java, PHP, Ruby	Back-End Developer, Data Engineer, Data Scientist, Database Administrator, Information Security Analyst, Network Engineer, Professor, Security Engineer
+37	Senior	Computer Science (General Track)	Manoa Data Science		Data Engineer, Data Scientist, Database Administrator, Network Engineer, Researcher
+38	Sophomore	Computer Science (General Track)	GreyHats, Manoa Data Science	C, Java	Back-End Developer
+39	Senior	Computer Engineer	ACI, Entrepreneurship, Game Dev, GreyHats, Manoa Data Science	Bash, C, CSS, HTML, Java, JavaScript, PHP, Python, SQL	Back-End Developer, Data Engineer, Data Scientist, Database Administrator, DevOps Engineer, Information Security Analyst, IoT Architect, Mobile App Developer, Network Engineer, Researcher, Security Engineer, VR / AR Engineer
+40	Junior	Exploratory (leaning towards ICS, with multiple interests)	ACI, Entrepreneurship, Game Dev, GreyHats	CSS, HTML	Front-End Developer, Full Stack Developer, Game Developer, Information Security Analyst, Mobile App Developer, Professor, Researcher, Robotics Engineer, Security Engineer, Software Engineer, UX Designer, VR / AR Engineer
+41	Senior	Computer Science (General Track)	GreyHats	CSS, HTML, Java, JavaScript, Python	Back-End Developer, Data Engineer, Data Scientist, Front-End Developer, Full Stack Developer, Game Developer, IoT Architect, Network Engineer, Security Engineer, Software Engineer
+42	Senior	Computer Science (Security Track)	ACI, GreyHats, Manoa Data Science	C, Java, SQL	Back-End Developer, Data Scientist, Front-End Developer, Information Security Analyst, IoT Architect, Network Engineer, Professor, Researcher, Robotics Engineer, Security Engineer, Software Engineer
+43	Junior	Computer Science (General Track)	ACI, Entrepreneurship, Game Dev	C++, CSS, HTML	Front-End Developer, Game Developer, Software Engineer, UX Designer
+44	Junior	Computer Science (General Track)	ACI, Game Dev	Bash, C, C++, Java, JavaScript	Back-End Developer, DevOps Engineer, Game Developer, Mobile App Developer, Software Engineer
+45	Sophomore	Computer Science (Security Track)	ACI	C, Java	
+46	Grad Student	Computer Science (General Track)	GreyHats	Bash, C, C++, HTML, Java, PHP, SQL	Back-End Developer, Database Administrator, Full Stack Developer, Information Security Analyst, Network Engineer, Professor, Researcher, Security Engineer, Software Engineer
+47	Sophomore	Computer Science (General Track)	Game Dev	Java, JavaScript	Game Developer
+48	Junior	Computer Science (General Track)	Game Dev, GreyHats	CSS, HTML, JavaScript, Python, TypeScript	Back-End Developer, Front-End Developer, Full Stack Developer, Game Developer
+49	Sophomore	Computer Science (General Track)	ACI, Game Dev	Java, JavaScript	Back-End Developer, Front-End Developer, Game Developer, Information Security Analyst, Mobile App Developer, Researcher, Security Engineer, Software Engineer
+50	Junior	Computer Science (General Track)	ACI, Game Dev, Manoa Data Science	Bash, C, C++, Java, SQL	Back-End Developer, Database Administrator, Game Developer, Information Security Analyst, Software Engineer, Systems Administrator
+51	Senior	Computer Science (General Track)	Game Dev	C, CSS, HTML, Java, JavaScript, x86 Assembly	Back-End Developer, Game Developer, Mobile App Developer, Software Engineer
+52	Sophomore	Computer Science (General Track)	Game Dev	Java	Database Administrator, Full Stack Developer, Game Developer, Information Security Analyst, Mobile App Developer
+53	Freshman	Computer Science (General Track)	ACI, Manoa Data Science	Java	Data Engineer, Data Scientist, Researcher, Software Engineer, UX Designer
+54	Other	Computer Science (Security Track)	ACI, Game Dev, GreyHats	C, Java, Python	Back-End Developer, Data Scientist, Game Developer, Mobile App Developer, Network Engineer, VR / AR Engineer
+55	Senior	Computer Science (Security Track)	ACI, GreyHats		Information Security Analyst
