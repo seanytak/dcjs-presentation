@@ -9,7 +9,7 @@ const counter = dc.dataCount('.dc-data-count');
 // const table = dc.dataTable('.dc-data-table');
 
 
-d3.tsv("https://gist.github.com/seanytak/a595cf6f1e170bc7c2d5942da7133722").then(function (data) {
+d3.tsv("assets/acm.tsv").then(function (data) {
 
     const cf = crossfilter(data);
     const all = cf.groupAll();
