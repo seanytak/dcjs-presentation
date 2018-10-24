@@ -9,7 +9,7 @@ const counter = dc.dataCount('.dc-data-count');
 // const table = dc.dataTable('.dc-data-table');
 
 
-d3.tsv("../data/acm.tsv").then(function (data) {
+d3.tsv("../assets/acm.tsv").then(function (data) {
 
     const cf = crossfilter(data);
     const all = cf.groupAll();
