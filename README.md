@@ -6,12 +6,17 @@
 
 The primary purpose of DC.js is to seamlessly integrate D3.js and Crossfilter.js
 
+[Official Page](https://dc-js.github.io/dc.js/)
+
 ### Documentation 
 
 Overall, DC.js is well-documented with complete coverage on all available Classes and Functions.
 
-The easiest way to get started is to try tweaking their minimal viable examples [here](http://dc-js.github.io/dc.js/examples/).
+The easiest way to get started is to try tweaking their minimal viable examples.
 
+[Official Documentation](http://dc-js.github.io/dc.js/docs/html/)
+
+[Examples](http://dc-js.github.io/dc.js/examples/)
 
 ### Installation
 
@@ -49,7 +54,7 @@ In the JavaScript file, you need to specify a `dc.chart('#chart-id')` the crossf
 const classChart = dc.pieChart('#class-chart');
 
 // Load the data like Plotly
-d3.tsv("../data/acm.tsv").then(function (data) {
+d3.tsv("assets/acm.tsv").then(function (data) {
 
     // Create a crossfilter object on the data
     const cf = crossfilter(data);
