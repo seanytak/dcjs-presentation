@@ -124,7 +124,7 @@ Then DC.js adds an extra layer of interactivity that empowers users to explore t
 
 ### More (Advanced) Examples:
 
-There are sub-libraries that DC.js also has for Advanced Chart support but the tradeoff is the community backing it is significntly smaller and the documentation and number of examples is lacking.
+There are sub-libraries that DC.js also has for Advanced Chart support but the tradeoff is the community backing it is significntly smaller and the documentation / number of examples is lacking.
 
 1. Linkage with Leaflet.js | [Leaflet Glory](http://dc-js.github.io/dc.leaflet.js/)
 2. Graph Visualizations [Nodes and Edges Fun](http://cechics.uc.edu:8080/dc/web/examples/yey.html)
